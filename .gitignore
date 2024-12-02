@@ -1,3 +1,5 @@
 node_modules
 dist
 .idea
+# add any file with the name input to gitignore regardless of where it is in the directory
+**/input

@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 
 function getLists(){
-    const file = fs.readFileSync('input','utf8');
+    const file = fs.readFileSync('src/day1/input','utf8');
     const lines = file.split('\r\n');
     const list1 :number[] = [];
     const list2 :number[] = [];
