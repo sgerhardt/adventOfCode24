@@ -1,6 +1,6 @@
 import { strict as assert } from 'assert';
-import {calc} from "./locations";
 import {describe, it} from "node:test";
+import {calc} from "./locations.js";
 
 describe('Part 1', () => {
     it('Subtract and sum lists', () => {

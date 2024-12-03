@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
-    "test": "node --import tsx --test **/*.test.ts"
+    "test": "node --import tsx --test **/*.test.ts",
+    "day2": "tsx src/day2/levels.ts"
   },
   "keywords": [],
   "author": "",
