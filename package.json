@@ -6,7 +6,8 @@
   "type": "commonjs",
   "scripts": {
     "test": "node --import tsx --test **/*.test.ts",
-    "day2": "tsx src/day2/levels.ts"
+    "day2": "tsx src/day2/levels.ts",
+    "day3": "tsx src/day3/mul.ts"
   },
   "keywords": [],
   "author": "",
