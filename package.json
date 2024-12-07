@@ -10,7 +10,8 @@
     "day3": "tsx src/day3/mul.ts",
     "day4": "tsx src/day4/puzzle.ts",
     "day5": "tsx src/day5/rules.ts",
-    "day6": "tsx src/day6/patrol.ts"
+    "day6": "tsx src/day6/patrol.ts",
+    "day7": "tsx src/day7/operators.ts"
   },
   "keywords": [],
   "author": "",
